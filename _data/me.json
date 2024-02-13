@@ -1,34 +1,22 @@
 {
-    "name": "Elton Leander Pinto",
+    "name": "Prahlad Jasti",
     "website": {
-        "url": "http://eltonpinto.netlify.app",
-        "domain": "eltonpinto.me"
+        "url": "http://prahlad-jasti.netlify.app",
+        "domain": "pjasti.me"
     },
     "socials": {
         "email": {
-            "username": "eltonp3103@gmail.com",
-            "url": "mailto:eltonp3103@gmail.com"
+            "username": "jasti001@gmail.com",
+            "url": "mailto:jasti001@gmail.com"
         },
         "github": {
-            "username": "1ntEgr8",
-            "url": "https://www.github.com/1ntEgr8"
+            "username": "prahlad-jasti",
+            "url": "https://www.github.com/prahlad-jasti"
         },
         "insta": {
-            "username": "1ntEgr8",
-            "url": "https://www.instagram.com/1ntegr8/"
-        },
-        "threads": {
-            "username": "1ntEgr8",
-            "url": "https://www.threads.net/@1ntegr8"
-        },
-        "twitter": {
-            "username": "1ntEgr8",
-            "url": "https://www.twitter.com/1ntEgr8"
+            "username": "prjasti",
+            "url": "https://www.instagram.com/prjasti"
         }
-    },
-    "identity": {
-        "service": "keybase",
-        "url": "https://www.keybase.io/1ntEgr8"
     }
 }
 
