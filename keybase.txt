@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/1ntegr8
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eltonpinto.me
+  * I am 1ntegr8 (https://keybase.io/1ntegr8) on keybase.
+  * I have a public key with fingerprint 0AC9 50B5 FA67 F85C 99B3  D295 B1B0 E1F9 A6DE 8ED0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101694853487eb978f735ee021b1e805c5f6f98c211198d792fbdb682a42042238f0a",
+      "fingerprint": "0ac950b5fa67f85c99b3d295b1b0e1f9a6de8ed0",
+      "host": "keybase.io",
+      "key_id": "b1b0e1f9a6de8ed0",
+      "kid": "0101694853487eb978f735ee021b1e805c5f6f98c211198d792fbdb682a42042238f0a",
+      "uid": "66b5521aba1788f09c19fb091ee4a719",
+      "username": "1ntegr8"
+    },
+    "merkle_root": {
+      "ctime": 1592801416,
+      "hash_meta": "2e420c4e4a1d93346a6918524d342b25e6c2e3fbbbb860f720502501e5393949",
+      "seqno": 16739103
+    },
+    "revoke": {
+      "sig_ids": [
+        "1d387aebf1f6795ddab807b77d43180c6108ff009f7bc60b24ae756cecad9e460f"
+      ]
+    },
+    "service": {
+      "hostname": "eltonpinto.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1592801417,
+  "expire_in": 157680000,
+  "prev": "278e2c2382a1af3a8dc4dd4195157adb8d7541b6c5bbaf8be9eab90f27aedcdf",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK3AnicrVNfaBxFHL7UtjQntkVKIii07oOG40hnZndmZy4GqliwUG1VLKZ6OWZ2
+fnO3XLJ72dtcreVKtIhYRbT+qVLbmhKfqsRKGqh5MIQW0byIBF/UB//08C9EBVPy
+5GyoCOKj87LMzPf7vu/3/XYu33RDLt/1w44TZ67uGzrbtbjQGs8NL/Pnjjgq1oed
+0hGnDmsfGNHQTCv1UDslB2GEmfA4dT3ugxI+N75LARDBCgNHNKCGGcEDgjEWXPuC
+GKUV40R6BHmEuNwg6RQdE0ZVSBpJGKUZrQwERYoayXzDaSCEcjURVGGFABshmQYO
+GtnCWtzMKqw5JZvQH8b2zG4qa/b+A/8/+x5fo2NMUUqwVBL73N6IAAujkMAAnvSx
+yIBNSCI5ChaNoxSqCXfaRWcUkvoIVJI4TrNsgzTMEJgKwhH2MLP9yWatMgqptIUE
+rHjgWU6shet6TDKBOSWedj2iCAUWEHCNsoszZHyCKCIUYaCucIWX2WjCWBRbBea7
+AiPXWkigFdchU2+GVRtb0yk95mDtcl+CMtgwX1CtpeLIV76vPRdzFDCMuDEICeOr
+gCFFPAk+ZQEEUgvwrLhTbmdqSSsM1sizOV3vH0bSOGrYScf9dl90GkmcxkE8Yq9q
+adpolrJk0sONDHsIVOU6S0WFkba/ia1oQdIM48j2YZH/Ds0vOvBEI0ygEmYI6jOO
+7Mp0oJWl6HMggZ0gkVgaV3IdeFp7WFCLlVrZaVMPKxZQpaThCgRIJZAhNhAdaPNP
+inY8qaxaSptcJNPxBJz2wvzj63Nd+dzGDeuy55PLd2/9+1GVj23KHd+/+c/Cyb2z
+Uw9+tXloZfvBwd5PXx0u3zc6ffmzt72llty9c+Xh8/Nf3v/0ytjYvg8Obbx91xdz
+FfbOHT+e/vghMzyze+HXgULv0Z2VExMXXt6ztEXt6pD43SD5/rct95xcvrX7hQPr
+wtdvnJu8VFvpfFjtGy5dfOab9L3i9p/b147PiPXdncWjc7+8Mv3iwZcuDUyvLs3M
+XrhtuVarX+s79/XZuwY7+Zuf3dY51bNDFp6fuiUKT91759by5E9X3lBTE6ufTAQf
+bXDnOled2T1PnX7rkZ7Xkgf2jzVIYXCo/7ve6Hy0mL5/97bJvY9+Dm+WSXu6MFSv
+Hpt/cmDT1JnVvotXvj3Xn//9j56/AAFLfwo=
+=WJyj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/1ntegr8
+
+==================================================================
+

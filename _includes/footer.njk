@@ -1,0 +1,7 @@
+<footer class="footer">
+    <ul class="footer__social" id="contact">
+        {% for social, details in me.socials %}
+            <li class="footer__social__item"><a href="{{ details.url}}" target="_blank">{{ social }}</a></li>
+        {% endfor %}
+    </ul>
+</footer>

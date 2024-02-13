@@ -1,0 +1,11 @@
+node_modules/
+_site/
+package-lock.json
+node-supporters/
+.env
+.log
+.cache
+.DS_Store
+
+# Local Netlify folder
+.netlify

@@ -1,0 +1,34 @@
+{
+    "name": "Elton Leander Pinto",
+    "website": {
+        "url": "http://eltonpinto.netlify.app",
+        "domain": "eltonpinto.me"
+    },
+    "socials": {
+        "email": {
+            "username": "eltonp3103@gmail.com",
+            "url": "mailto:eltonp3103@gmail.com"
+        },
+        "github": {
+            "username": "1ntEgr8",
+            "url": "https://www.github.com/1ntEgr8"
+        },
+        "insta": {
+            "username": "1ntEgr8",
+            "url": "https://www.instagram.com/1ntegr8/"
+        },
+        "threads": {
+            "username": "1ntEgr8",
+            "url": "https://www.threads.net/@1ntegr8"
+        },
+        "twitter": {
+            "username": "1ntEgr8",
+            "url": "https://www.twitter.com/1ntEgr8"
+        }
+    },
+    "identity": {
+        "service": "keybase",
+        "url": "https://www.keybase.io/1ntEgr8"
+    }
+}
+

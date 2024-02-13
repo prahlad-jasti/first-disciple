@@ -1,0 +1,30 @@
+.nav {
+    font-family: var(--primary-font);
+}
+
+.nav__list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 15px 0px;
+    margin: 0px;
+}
+
+.nav__list__item {
+    padding: 5px;
+    margin-right: 15px;
+}
+
+.nav__list__item a {
+    color: var(--primary-color);
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
+.nav__list__item a:hover {
+    color: var(--secondary-color-1);
+}
+
+.nav__list__item a:visited { }

@@ -1,0 +1,43 @@
+{
+    "concentrations": [
+        "Computer Systems and Architecture",
+        "Theory"
+    ],
+    "selectedCoursework": [
+        "Data Structures & Algorithms",
+        "Advanced Algorithms",
+        "Operating Systems Design",
+        "High-Performance Computer Architecture",
+        "Systems & Networks",
+        "Compilers",
+        "Programming Languages Design",
+        "Applied Combinatorics"
+    ],
+    "skills": {
+        "languages": [
+            "Rust",
+            "JavaScript",
+            "TypeScript",
+            "C",
+            "Java",
+            "Python",
+            "Haskell",
+            "OCaml",
+            "Go",
+            "Bash"
+        ],
+        "technologies": [
+            "git",
+            "Linux",
+            "Docker",
+            "OOP",
+            "Functional programming"
+        ],
+        "interests": [
+            "PL design",
+            "Compilers",
+            "Operating Systems",
+            "Quantum Computing"
+        ]
+    }
+}

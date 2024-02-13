@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>{{ title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="title" content="{{ title or metadata.title }}">
+        <meta name="description" content="{{ description or metadata.description }}">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ me.website.url }}">
+        <meta property="og:title" content="lexically::scoped | Elton Pinto">
+        <meta property="og:description" content="My personal website and blog!">
+        <meta property="og:image" content="{{ me.website.url }}/assets/preview.png">
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://eltonpinto.me/">
+        <meta property="twitter:title" content="lexically::scoped | Elton Pinto">
+        <meta property="twitter:description" content="My personal website and blog">
+        <meta property="twitter:image" content="{{ me.website.url }}/assets/preview.png">
+
+        <link rel="icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/direct-hit_1f3af.png">
+
+        <script>
+            MathJax = {
+                tex: {
+                    inlineMath: [['$', '$'], ['\\(', '\\)']]
+                },
+                svg: {
+                    fontCache: 'global'
+                }
+            };
+        </script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        {% set css %}
+            {% include 'styles/index.css' %}
+            {% include 'styles/nav.css' %}
+            {% include 'styles/footer.css' %}
+        {% endset %}
+        <style>
+            {{ css | cssmin | safe }}
+        </style>
+    </head>
+    <body>
+        {{ content | safe }}
+        <script>
+            {% include 'scripts/index.js' %}
+        </script>
+    </body>
+</html>
